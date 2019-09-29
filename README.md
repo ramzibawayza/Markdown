@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Markdown
 
-You can use the [editor on GitHub](https://github.com/ramzibawayza/Markdown/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Markdown is a popular way of adding formatting such as headers, lists, emphasis, blockquotes, links to URLs and images, and more to a plain text document. It was originally designed to be an easy alternative to HTML, but has gained popularity as a way to write structured content, organise notes, quickly create to-do lists, and much more.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this article, we’ll look at the role Markdown can play in your daily workflow, teach you the basic Markdown syntax to get you started, and finally recommend some great Markdown editors you can try.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ramzibawayza/Markdown/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Formatting text in Markdown has a very gentle learning curve. It doesn’t do anything fancy like change the font size, color, or type. All you have control over is the display of the text—stuff like making things bold, creating headers, and organizing lists.
